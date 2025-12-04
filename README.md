@@ -1,6 +1,6 @@
 # Markdown Collaborative Editor
 
-This readme is genreated by AI tool
+**This readme is genreated by AI tool**
 
 This project implements a **multi-user collaborative Markdown editing system** based on **FIFOs (named pipes) + multithreading + signals**. The system contains two main components:
 
